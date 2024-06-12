@@ -1,4 +1,4 @@
-# regex2wl
+# regex2wl 
 Powerful Python-based utility designed to generate worldlist from a set of predefined regular expressions. These regular expressions are stored in a file, allowing for easy customization.
 
 # Requirement
@@ -64,4 +64,4 @@ Targetcompagny2012;
 
 
 
-Enjoy  
+Enjoy 🎈  
