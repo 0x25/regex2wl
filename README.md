@@ -23,32 +23,25 @@ options:
 # Example
 python3 regex2wl.py -i patterns.example.txt
 
-administrator
-administrator!
-administrator*
-administrator;
-administrator?
-administrator@
-administrat0r
-administrat0r!
-administrat0r*
-administrat0r;
-administrat0r?
-administrat0r@
-administr@tor
-administr@tor!
-administr@tor*
-administr@tor;
-administr@tor?
-administr@tor@
-administr@t0r
-administr@t0r!
-administr@t0r*
-administr@t0r;
-administr@t0r?
-administr@t0r@
-...
+administrator  
+administrator!  
+administrator*  
+administrator;  
+administrator?  
+administrator@  
+administrat0r  
+administrat0r!  
+administrat0r*  
+administrat0r;  
+administrat0r?  
+administrat0r@  
+administr@tor  
+administr@tor!  
+administr@tor*  
+administr@tor;  
+administr@tor?  
+...  
 
 
 
-Enjoy
+Enjoy  
