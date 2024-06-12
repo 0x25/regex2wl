@@ -42,6 +42,26 @@ administr@tor;
 administr@tor?  
 ...  
 
+python3 regex2wl.py -p "T[a@]rg[e3]t[cC][o0O]mp[a@]gny20[12]{1}[0-9]{1}[!*;?@]{0,1}"
+Targetcompagny2010  
+Targetcompagny2010!  
+Targetcompagny2010*  
+Targetcompagny2010;  
+Targetcompagny2010?  
+Targetcompagny2010@  
+Targetcompagny2011  
+Targetcompagny2011!  
+Targetcompagny2011*  
+Targetcompagny2011;  
+Targetcompagny2011?  
+Targetcompagny2011@  
+Targetcompagny2012  
+Targetcompagny2012!  
+Targetcompagny2012*  
+Targetcompagny2012;  
+...  
+
+
 
 
 Enjoy  
